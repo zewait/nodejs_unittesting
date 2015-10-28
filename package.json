@@ -1,0 +1,25 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zewait/nodejs_unittesting.git"
+  },
+  "author": "Wait",
+  "license": "MIT",
+  "devDependencies": {
+    "jscover": "^1.0.0",
+    "mocha": "^2.3.3",
+    "muk": "^0.4.0",
+    "rewire": "^2.3.4",
+    "should": "^7.1.1"
+  }
+}
